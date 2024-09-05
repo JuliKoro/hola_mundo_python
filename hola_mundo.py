@@ -14,8 +14,8 @@ __author__ = "Julián Andrés Koroluk"
 __email__ = "julian.koroluk@outlook.com"
 __version__ = "1.4"
 
-print("¡Hola Mundo!")
-print("Hello World!")
-print("Привіт Світ!")
-print("Bonjour Monde!")
-print('Ciao mondo!')
+print("¡Hola Mundo!") # Español
+print("Hello World!") # English
+print("Привіт Світ!") # Українська
+print("Bonjour Monde!") # Française
+print('Ciao mondo!') # Italiano
